@@ -1,9 +1,9 @@
-import download from './download.png';
-import logo from './logo.svg';
-import preview from './preview.png';
+import Card from "./Card";
+import FormField from "./FormField";
+import Loader from "./Loader";
 
 export {
-  download,
-  logo,
-  preview,
-};
+    Card,
+    FormField,
+    Loader
+}
