@@ -1,11 +1,8 @@
-# AI-Image-generation-app-Project
-Introduction The AI-Image-Generation application stands as a comprehensive, full-stack platform for generating images form input text. It uses Open API’s DALL-E model API to generates images from text. It has a great features of sharing generated image with community and a surprise me button which will generate a random text to test this app .
+# React + Vite
 
-⚙️ Tech Stack ReactJS HTML5 JavaScript TailwindCSS MongoDb NodeJS Cloudinary
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-🔋 Features 👉 Sruprise me button: It will generate a random text on input which can be used to generate image.
+Currently, two official plugins are available:
 
-👉 Share with community: Comprehensive functionality to share AI generated image to community.
-
-👉 Search: Empowering users with a robust search to search images.
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
